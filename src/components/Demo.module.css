@@ -1,0 +1,16 @@
+.pages {
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  flex-direction: column;
+  border-bottom: 2px solid wheat;
+}
+
+.pagesHeader {
+  border: 1px solid salmon;
+  padding: 2rem 3rem;
+  background-color: rgba(0, 0, 0, 0.459);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.8);
+}
