@@ -8,11 +8,11 @@ I use Vite for this project
 
 This is a project about React Animation On Scroll
 
-What you need te redoo this project is
-https://www.npmjs.com/package/react-animation-on-scroll
-https://animate.style/
--npm install react-animation-on-scroll --save
--npm install --save animate.css
+What you need to redo this project is: 
+- https://www.npmjs.com/package/react-animation-on-scroll
+- https://animate.style/
+- npm install react-animation-on-scroll --save
+- npm install --save animate.css
 
 I am using axios for fetch local API data
 - npm install axios
