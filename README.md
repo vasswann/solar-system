@@ -20,4 +20,4 @@ I am using axios for fetch local API data
 The project is about our Solar System.
 The API was created by me. I am not taking any responsibility for whether the data is true or not. I used Wikipedia for the right details.
 
-Have fun and enjoy the project
+Have fun and enjoy the project. Swann
