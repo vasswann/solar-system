@@ -3,7 +3,7 @@
 - npm run install
 - npm run dev
 
-I use Vite for this project
+I use Vite for this project. React with JavaScript and pure css with module.css styling.
 - npm create vite@latest
 
 This is a project about React Animation On Scroll
